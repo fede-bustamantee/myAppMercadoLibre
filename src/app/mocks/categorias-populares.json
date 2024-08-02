@@ -1,0 +1,187 @@
+{
+    "populares":[
+        {
+            "icono":"./imgPopu/autos.png",
+            "descripcion":"Autos, Motos, Otros",
+            "enlace":"https://www.mercadolibre.com.ar/c/autos-motos-y-otros#c_id=/home/categories/element&c_uid=21a5299b-a434-4b74-bcd6-7321802409be"
+        },        
+        {
+            "icono":"./imgPopu/computacion.jpg",
+            "descripcion": "Computación",
+            "enlace":"https://www.mercadolibre.com.ar/c/computacion#c_id=/home/categories/element&c_uid=6a040288-6b5d-4e23-91d2-aec92e46b2d8"
+        },
+        
+        {
+            "icono":"./imgPopu/electrodomesticos.jpg",
+            "descripcion": "Electrodomésticos y Aires",
+            "enlace":"https://www.mercadolibre.com.ar/c/electrodomesticos-y-aires-ac#c_id=/home/categories/element&c_uid=7d071c10-0674-4ec1-b4f2-eaa32dcb6698"
+        },
+        {
+            "icono":"./imgPopu/deporte.jpg",
+            "descripcion": "Deportes y Fitness",
+            "enlace":"https://www.mercadolibre.com.ar/c/deportes-y-fitness#c_id=/home/categories/element&c_uid=56e98a8c-d9c0-403f-ad21-8335832892e7"
+        },
+        {
+            "icono":"./imgPopu/inmuebles.jpg",
+            "descripcion": "Inmuebles",
+            "enlace":"https://www.mercadolibre.com.ar/c/inmuebles#c_id=/home/categories/element&c_uid=0e071d98-ca6b-42e1-bec1-a5266566304f"
+        },
+        {
+            "icono":"./imgPopu/belleza.jpg",
+            "descripcion": "Belleza y Cuidado Personal",
+            "enlace":"https://www.mercadolibre.com.ar/c/belleza-y-cuidado-personal#c_id=/home/categories/element&c_uid=4c134ac4-07c4-48de-8d50-e2646a2b9b58"
+        },
+        {
+            "icono":"./imgPopu/juguetes.jpg",
+            "descripcion": "Juegos y Juguetes",
+            "enlace":"https://www.mercadolibre.com.ar/c/juegos-y-juguetes#c_id=/home/categories/element&c_uid=d52597ba-e85c-4b81-aa34-db81f606d919"
+        },
+        {
+            "icono":"./imgPopu/celulares.jpg",
+            "descripcion": "Celulares y Teléfonos",
+            "enlace":"https://www.mercadolibre.com.ar/c/celulares-y-telefonos#c_id=/home/categories/element&c_uid=c7d464ee-9d02-4e32-947a-440dc3148ad5"
+        },
+        {
+            "icono":"./imgPopu/electronica.jpg",
+            "descripcion": "Electrónica, Audio y Video",
+            "enlace":"https://www.mercadolibre.com.ar/c/electronica-audio-y-video#c_id=/home/categories/element&c_uid=59d1660d-058b-4ebf-81eb-535333834d79"
+        },
+        {
+            "icono":"./imgPopu/ropa.jpg",
+            "descripcion": "Ropa y Accesorios",
+            "enlace":"https://www.mercadolibre.com.ar/c/ropa-y-accesorios#c_id=/home/categories/element&c_uid=022fab85-f15b-42ff-a7f8-355fd7a1dab2"
+        },
+        {
+            "icono":"./imgPopu/mueblesHogar.jpg",
+            "descripcion": "Hogar, Muebles y Jardín",
+            "enlace":"https://www.mercadolibre.com.ar/c/hogar-muebles-y-jardin#c_id=/home/categories/element&c_uid=1215b5a6-0119-427d-bcc3-169ab0637296"
+        },
+        {
+            "icono":"./imgPopu/accesoriosVehiculos.jpg",
+            "descripcion": "Accesorios para Vehículos",
+            "enlace":"https://www.mercadolibre.com.ar/c/accesorios-para-vehiculos#c_id=/home/categories/element&c_uid=b7215c68-1c9a-4896-9f7f-dd8a73a82105"
+        },
+        {
+            "icono":"./imgPopu/consolas.jpg",
+            "descripcion": "Consolas y Videosjuegos",
+            "enlace":"https://www.mercadolibre.com.ar/c/consolas-y-videojuegos#c_id=/home/categories/element&c_uid=9571e249-a458-4e54-a5bb-3af26a13066f"
+        },
+        {
+            "icono":"./imgPopu/alimentos.jpg",
+            "descripcion": "Alimentos y Bebidas",
+            "enlace":"https://www.mercadolibre.com.ar/c/alimentos-y-bebidas#c_id=/home/categories/element&c_uid=063522d6-c7c6-4bdb-a17b-505d793afd1f"
+        },
+        {
+            "icono":"./imgPopu/entradas.jpg",
+            "descripcion":"Entradas para Eventos",
+            "enlace":"https://www.mercadolibre.com.ar/c/entradas-para-eventos#c_id=/home/categories/element&c_uid=3571960e-9b8c-49c0-bf33-f4d564793ea7"
+        },        
+        {
+            "icono":"./imgPopu/bebes.jpg",
+            "descripcion": "Bebés",
+            "enlace":"https://www.mercadolibre.com.ar/c/bebes#c_id=/home/categories/element&c_uid=3e2e9103-b7da-45f6-ad69-ac9e8196e5f9"
+        },
+        
+        {
+            "icono":"./imgPopu/relojes.jpg",
+            "descripcion": "Joyas y Relojes",
+            "enlace":"https://www.mercadolibre.com.ar/c/joyas-y-relojes#c_id=/home/categories/element&c_uid=8852e01b-7f94-4dbb-9202-ba6546dc2899"
+        },
+        {
+            "icono":"./imgPopu/libros.jpg",
+            "descripcion": "Libros, Revistas Comic ",
+            "enlace":"https://www.mercadolibre.com.ar/c/libros-revistas-y-comics#c_id=/home/categories/element&c_uid=0a38db69-cad1-40e6-a5a0-f1f72ce83c04"
+        },
+        {
+            "icono":"./imgPopu/mascotas.jpg",
+            "descripcion": "Animales y Mascotas",
+            "enlace":"https://www.mercadolibre.com.ar/c/animales-y-mascotas#c_id=/home/categories/element&c_uid=b2f4d165-f6d1-4f80-b63c-5be25c3eb8a5"
+        },
+        {
+            "icono":"./imgPopu/musica.jpg",
+            "descripcion": "Música, Películas y Series ",
+            "enlace":"https://www.mercadolibre.com.ar/c/musica-peliculas-y-series#c_id=/home/categories/element&c_uid=ccbe2af0-d9e6-4a45-ade4-a788fc8252c8"
+        },
+        {
+            "icono":"./imgPopu/arte.jpg",
+            "descripcion": "Arte, Librería y Mercería",
+            "enlace":"https://www.mercadolibre.com.ar/c/arte-libreria-y-merceria#c_id=/home/categories/element&c_uid=1e1983c8-6c5e-4df1-91fa-f635e0fb3ea8"
+        },
+        {
+            "icono":"./imgPopu/herramienta.jpg",
+            "descripcion": "Herramientas",
+            "enlace":"https://www.mercadolibre.com.ar/c/herramientas#c_id=/home/categories/element&c_uid=bb6c802b-9953-44bf-a509-6534ecce2985"
+        },
+        {
+            "icono":"./imgPopu/fiestas.jpg",
+            "descripcion": "Souvenirs Cotillón y Fiestas",
+            "enlace":"https://www.mercadolibre.com.ar/c/souvenirs-cotillon-y-fiestas#c_id=/home/categories/element&c_category_id=MLA9304&c_uid=15481052-8fee-4ea5-ba25-cdf4c540d546"
+        },
+        {
+            "icono":"./imgPopu/oficina.jpg",
+            "descripcion": "Industrias y Oficinas",
+            "enlace":"https://www.mercadolibre.com.ar/c/industrias-y-oficinas#c_id=/home/categories/element&c_uid=9aeb265f-3d53-4d7a-a553-9bd9152fc910"
+        },
+        {
+            "icono":"./imgPopu/guitarra.jpg",
+            "descripcion": "Instrumentos Musicales",
+            "enlace":"https://www.mercadolibre.com.ar/c/instrumentos-musicales#c_id=/home/categories/element&c_uid=7f53509a-d7da-4727-aba4-b40735da6a81"
+        },
+        {
+            "icono":"./imgPopu/antiguedades.jpg",
+            "descripcion": "Antigüedades y Colecciones",
+            "enlace":"https://www.mercadolibre.com.ar/c/antiguedades-y-colecciones#c_id=/home/categories/element&c_uid=8356c671-3d47-4098-ad5b-1ae08e98e8b4"
+        },
+        {
+            "icono":"./imgPopu/hospital.jpg",
+            "descripcion": "Salud y Equipamiento Médico",
+            "enlace":"https://www.mercadolibre.com.ar/c/salud-y-equipamiento-medico#c_id=/home/categories/element&c_uid=5a750503-b6b9-46ed-9746-3456f7146673"
+        },
+        {
+            "icono":"./imgPopu/servicios.jpg",
+            "descripcion": "Servicios",
+            "enlace":"https://www.mercadolibre.com.ar/c/servicios#c_id=/home/categories/element&c_uid=6d2cf8a5-ac46-4ae3-b460-d321237c3636"
+        },
+        {
+            "icono":"./imgPopu/camara.jpg",
+            "descripcion": "Camaras Y Accesorios",
+            "enlace":"https://www.mercadolibre.com.ar/c/camaras-y-accesorios#c_id=/home/categories/element&c_category_id=MLA1039&c_uid=2dce06e8-2103-42c4-bd6b-c324b5ab4b90"
+        },
+        {
+            "icono":"./imgPopu/agro.jpg",
+            "descripcion": "Agro",
+            "enlace":"https://www.mercadolibre.com.ar/c/agro#c_id=/home/categories/element&c_category_id=MLA1512&c_uid=37913c2a-8c5a-4c99-84ee-9b1da7530c03"
+        },
+        {
+            "icono":"./imgPopu/construccion.jpg",
+            "descripcion": "Construcción",
+            "enlace":"https://www.mercadolibre.com.ar/c/construccion#c_id=/home/categories/element&c_category_id=MLA1500&c_uid=7fa3a165-3755-4d1c-86c7-98ff78d615e5"
+        },
+        {
+            "icono":"./imgPopu/computacion.jpg",
+            "descripcion": "Computación",
+            "enlace":"https://www.mercadolibre.com.ar/c/computacion#c_id=/home/categories/element&c_uid=6a040288-6b5d-4e23-91d2-aec92e46b2d8"
+        },
+        
+        {
+            "icono":"./imgPopu/electrodomesticos.jpg",
+            "descripcion": "Electrodomésticos y Aires",
+            "enlace":"https://www.mercadolibre.com.ar/c/electrodomesticos-y-aires-ac#c_id=/home/categories/element&c_uid=7d071c10-0674-4ec1-b4f2-eaa32dcb6698"
+        },
+        {
+            "icono":"./imgPopu/relojes.jpg",
+            "descripcion": "Joyas y Relojes",
+            "enlace":"https://www.mercadolibre.com.ar/c/joyas-y-relojes#c_id=/home/categories/element&c_uid=8852e01b-7f94-4dbb-9202-ba6546dc2899"
+        },
+        {
+            "icono":"./imgPopu/libros.jpg",
+            "descripcion": "Libros, Revistas Comic ",
+            "enlace":"https://www.mercadolibre.com.ar/c/libros-revistas-y-comics#c_id=/home/categories/element&c_uid=0a38db69-cad1-40e6-a5a0-f1f72ce83c04"
+        },
+        {
+            "icono":"./imgPopu/categoria.png",
+            "descripcion": "Otras Categorias",
+            "enlace":"https://www.mercadolibre.com.ar/c/otras-categorias#c_id=/home/categories/element&c_category_id=MLA1953&c_uid=daf0aad1-819f-4877-bdd6-2074549153bf"
+        }
+    ]
+}

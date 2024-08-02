@@ -1,0 +1,26 @@
+{
+    "beneficios":[{
+                  "imagenPrincipal": "https://http2.mlstatic.com/resources/frontend/statics/loyal/partners/nivel-6/widgetMultiPartnerCard/20240723153613_Imagen-MLA@2x.png",
+                  "linkBeneficio": "https://www.mercadolibre.com.ar/suscripciones/nivel-6#origin=ml_home",
+                 "imagenBeneficio": "https://http2.mlstatic.com/resources/frontend/statics/loyal/partners/disneyplus/rebrand-logo/disney-brand@1X.png",
+                 "diasBeneficio": "",
+                 "tituloBeneficio": "Incluido con el nivel 6",
+                "nombreBeneficio": "Plan Estándar con anuncios"
+                 },
+                 {
+                  "imagenPrincipal": "https://http2.mlstatic.com/resources/frontend/statics/loyal/partners/hbo/widgetMultiPartnerCard/20240514124936_LATAM@2x.png",
+                  "linkBeneficio": "https://www.mercadolibre.com.ar/suscripciones/hbo#origin=ml_home",
+                  "imagenBeneficio": "https://http2.mlstatic.com/resources/frontend/statics/loyal/partners/max/logo/max-square@2x.png",
+                  "diasBeneficio": "",
+                  "tituloBeneficio": "Hasta 30% OFF",
+                  "nombreBeneficio": "Max"
+                 },
+                 {
+                "imagenPrincipal": "https://http2.mlstatic.com/resources/frontend/statics/loyal/partners/paramount/widgetMultiPartnerCard/20240530110849_paramount_widgetmulti_mobdsk_argentina_@2x.jpg",
+                "linkBeneficio": "https://www.mercadolibre.com.ar/suscripciones/paramount#origin=ml_home",
+                "imagenBeneficio": "https://http2.mlstatic.com/resources/frontend/statics/loyal/paramount/logos/paramount-logo-vdp-56-x-56-filled@2x.png",
+                "diasBeneficio": "7 DÍAS GRATIS",
+                "tituloBeneficio": "Hasta 30% OFF",
+                "nombreBeneficio": "Paramount+"
+                }]
+}

@@ -1,0 +1,29 @@
+{
+    "metodos":[
+        {"titulo":"Tarjeta de crédito",
+        "link":"https://www.mercadolibre.com.ar/gz/promociones-bancos",
+        "link_texto":"Ver promociones bancarias",
+        "icono":"https://http2.mlstatic.com/storage/homes-korriban/assets/images/payments/credit-card.svg"
+    },
+        {"titulo":"Tarjeta de débito",
+        "link":"https://www.mercadolibre.com.ar/gz/home/payments/methods#debit-card",
+        "link_texto":"Ver más",
+        "icono":"https://http2.mlstatic.com/storage/homes-korriban/assets/images/payments/debit-card.svg"},
+
+        {"titulo":"Cuotas sin tarjeta",
+        "link":"https://mercadolibre.com.ar/mercado-credito/cuotas-sin-tarjeta/?sk=RHRsnBTf",
+        "link_texto":"Conocé Mercado Crédito",
+        "icono":"https://http2.mlstatic.com/storage/homes-korriban/assets/images/payments/mercado-creditsv2.svg"},
+
+        {"titulo":"Efectivo",
+        "link":"https://www.mercadolibre.com.ar/gz/home/payments/methods#payment-agreement",
+        "link_texto":"Ver más",
+        "icono":"https://http2.mlstatic.com/storage/homes-korriban/assets/images/payments/payment-agreement.svg"}
+
+    ],
+    "accion":{
+        "icono": "https://http2.mlstatic.com/storage/homes-korriban/assets/images/payments/view-more.svg",
+        "link": "https://www.mercadolibre.com.ar/gz/home/payments/methods"  
+    }
+
+}

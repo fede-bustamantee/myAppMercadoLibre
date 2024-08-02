@@ -1,0 +1,26 @@
+{
+    "footer":[
+        {
+            "imagen":"https://http2.mlstatic.com/storage/homes-korriban/assets/images/ecosystem/payment.svg",
+            "titulo":"Elegí cómo pagar",
+            "descripcion": "Podés pagar con tarjeta, débito, efectivo o hasta 12 cuotas sin tarjeta con Mercado Crédito.",
+            "nombreEnlace": "Cómo pagar tus compras",
+            "enlaceEnlace": "https://www.mercadolibre.com.ar/pagar-online-con-mercadopago"
+        },
+        {
+            "imagen":"https://http2.mlstatic.com/storage/homes-korriban/assets/images/ecosystem/shipping.svg",
+            "titulo":"Envío gratis desde $ 23.000",
+            "descripcion": "Solo por estar registrado en Mercado Libre tenés envíos gratis en miles de productos. Es un beneficio de Mercado Puntos.",
+            "nombreEnlace": "Conocé más sobre este beneficio",
+            "enlaceEnlace": "https://www.mercadolibre.com.ar/mercado-puntos/envio-gratis"
+        },
+        {
+            "imagen":"https://http2.mlstatic.com/storage/homes-korriban/assets/images/ecosystem/protected.svg",
+            "titulo":"Seguridad, de principio a fin",
+            "descripcion": "¿No te gusta? ¡Devolvelo! En Mercado Libre, no hay nada que no puedas hacer, porque estás siempre protegido.",
+            "nombreEnlace": "Cómo te protegemos",
+            "enlaceEnlace": "https://www.mercadolibre.com.ar/seguridad"
+        }
+    ]
+    
+}
